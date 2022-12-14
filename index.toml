@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris.properties"
+hash = "407847d393dc5836161e46e69ccfd6ca6ce9d236318a69074138263ec2bec9ee"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
@@ -224,3 +228,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.6.zip"
+hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
